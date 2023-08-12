@@ -113,3 +113,16 @@ bool flag5 = Game.instance.sessionManager.GetNormalizedSessionTime() > inVehicle
 return inVehicle.speed <= GameUtility.MilesPerHourToMetersPerSecond(55f) && !isTutorialActiveInCurrentGameState && !inVehicle.behaviourManager.isOutOfRace && !flag && (flag2 & (flag3 || flag4 || flag5)) && inVehicle.sessionEvents.IsReadyTo(SessionEvents.EventType.LockUp);
 float mFrequency = 45f
 ```
+
+#### Fixing Flags
+- Removed Sochi from OpenWheel
+```
+Locations.txt - get track numbers
+\r\nBlack Sea,34,35,36,...
+Championships.txt - replace track numbers
+```
+- Nationalities
+```
+Drivers.txt,Teams.txt
+replace country name
+```
