@@ -126,3 +126,9 @@ Championships.txt - replace track numbers
 Drivers.txt,Teams.txt
 replace country name
 ```
+
+### No Intro Skip
+```
+Replaced SplashSequence.bk2 and AttractIntro.bk2 with a zero length file from here :
+https://mega.nz/#!fdhi3TRZ!1P_2GhzbqmjyRyhyXGK2qCIOv2AVtUhMs4rGY42kTX4
+```
