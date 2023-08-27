@@ -1,0 +1,4 @@
+First Name,Last Name,Gender,Country,Job,(Job),Championship,Years in IMA,Libertarian,Progressive,Egalitarian,Cost Cutter,Traditionalistist,Purist,Skin Colour,Hair,Hair Colour,Glasses,Accessory,Facial Hair
+Mohammed,bin Sulaymen,M,UnitedArabEmirates,1,President,,30,68,61,85,69,44,25,1,1,3,0,0,0
+Mohammed,bin Sulaymen,M,UnitedArabEmirates,1,President,,30,68,61,85,69,44,25,2,0,0,0,0,0
+Mohammed,bin Sulaymen,M,UnitedArabEmirates,1,President,,30,68,61,85,69,44,25,0,1,0,0,0,0

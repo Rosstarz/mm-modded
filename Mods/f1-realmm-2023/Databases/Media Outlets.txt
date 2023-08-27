@@ -1,0 +1,12 @@
+Outlet,Nationality,Logo Index,Primary Color,Secondary Color,Shirt Color
+Sky Sports,UK,1,#7F9BFF,#7F9BFF,#7F9BFF
+Channel 4,UK,2,#53933E,#53933E,#53933E
+Channel 4,UK,3,#53933E,#53933E,#53933E
+F1 Magazine,UK,4,#FFFBF7,#FFFBF7,#FFFBF7
+NBC,UnitedStates,5,#7F9BFF,#7F9BFF,#7F9BFF
+Sky Sports,UK,6,#7F9BFF,#7F9BFF,#7F9BFF
+Autosport,UK,7,#FF0008,#FF0008,#FF0008
+Formula 1,UK,8,#FF0008,#FF0008,#FF0008
+The Race,UK,9,#000000,#000000,#000000
+YouTube,UnitedStates,10,#ADD7FF,#ADD7FF,#ADD7FF
+BBC Sport,UK,11,#FFFF0A,#FFFF0A,#FFFF0A

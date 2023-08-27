@@ -1,0 +1,10 @@
+Session Length,Session Type,Duration,Endurance Duration,Length,Tyre Wear Rate,Weather Curves Scale,Endurance Weather Curve Scale
+Short,Practice,12,12,0,1,1,1
+Medium,Practice,15,15,0,1,1,1
+Long,Practice,20,20,0,1,2,1
+Short,Qualifying,8,12,0,1,1,1
+Medium,Qualifying,10,15,0,1,1,1
+Long,Qualifying,12,20,0,1,2,1
+Short,Race,0,0,1,1,1,3
+Medium,Race,0,0,60,1,2,6
+Long,Race,0,0,80,1,3,9

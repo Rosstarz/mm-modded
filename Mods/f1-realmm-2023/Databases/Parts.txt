@@ -1,0 +1,41 @@
+Championship,Part Type,Base Min Stat,Base Max Stat,Base Time,Championship Min Stat,Championship Max Stat,Base Cost,Slot Time,Slot Cost,Level 3 Unlock,Level 4 Unlock,Level 5 Unlock
+0,Engine,450,800,12,450,2500,3500000,2;3;6;8;10,450000;900000;1450000;2200000;3000000,TestTrack#1,TestTrack#2,TestTrack#3
+0,Gearbox,450,800,6,450,2300,2200000,1;2;5;7;8,300000;600000;860000;1250000;1800000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+0,Brakes,450,800,4,450,2000,850000,1;2;3;4;5,45000;90000;150000;270000;390000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+0,Suspension,450,800,8,450,2000,1125000,1;2;4;5;6,75000;150000;280000;400000;780000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+0,Front Wing,450,800,3,450,1950,250000,1;1;2;3;4,15000;30000;60000;100000;180000,WindTunnel#1,WindTunnel#2,WindTunnel#3
+0,Rear Wing,450,800,3,450,1950,250000,1;1;2;3;4,15000;30000;60000;100000;180000,Simulator#1,Simulator#2,Simulator#3
+1,Engine,250,600,15,200,1500,600000,2;3;4;5;8,80000;120000;180000;230000;300000,TestTrack#1,TestTrack#2,TestTrack#3
+1,Gearbox,250,600,9,200,1450,300000,2;2;2;3;7,30000;45000;90000;120000;180000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+1,Brakes,250,600,6,200,1400,80000,1;2;2;3;5,9000;15000;25000;35000;50000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+1,Suspension,250,600,10,200,1400,250000,1;2;3;3;6,15000;25000;60000;90000;120000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+1,Front Wing,250,600,5,200,1200,20000,1;1;1;2;4,5000;9000;15000;20000;35000,WindTunnel#1,WindTunnel#2,WindTunnel#3
+1,Rear Wing,250,600,5,200,1200,20000,1;1;1;2;4,5000;9000;15000;20000;35000,Simulator#1,Simulator#2,Simulator#3
+2,Engine,130,300,20,110,800,200000,2;3;3;4;6,23000;45000;55000;65000;120000,TestTrack#1,TestTrack#2,TestTrack#3
+2,Gearbox,130,300,12,110,750,90000,2;2;2;3;5,15000;30000;40000;50000;60000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+2,Brakes,130,300,9,110,700,15000,1;2;2;3;4,1200;2500;4000;6000;10000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+2,Suspension,130,300,15,110,700,45000,1;2;2;3;4,3800;7500;11000;15000;30000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+2,Front Wing,130,300,7,110,600,5000,1;1;1;2;3,1000;2000;2500;2500;3000,WindTunnel#1,WindTunnel#2,WindTunnel#3
+2,Rear Wing,130,300,7,110,600,5000,1;1;1;2;3,1000;2000;2500;2500;3000,Simulator#1,Simulator#2,Simulator#3
+3,Engine GT,400,700,12,400,2000,1000000,2;3;6;8;10,100000;120000;160000;200000;350000,TestTrack#1,TestTrack#2,TestTrack#3
+3,Gearbox GT,400,700,6,400,2000,600000,1;2;5;7;8,50000;65000;80000;110000;180000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+3,Brakes GT,400,700,4,400,1800,100000,1;2;3;4;5,20000;28000;35000;55000;65000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+3,Suspension GT,400,700,8,400,1800,250000,1;2;4;5;6,25000;30000;40000;60000;90000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+3,Rear Wing GT,400,700,3,400,1500,35000,1;1;2;3;4,5000;7000;10000;12000;18000,Simulator#1,Simulator#2,Simulator#3
+4,Engine GT,190,450,15,150,950,200000,2;3;4;5;8,23000;45000;55000;65000;120000,TestTrack#1,TestTrack#2,TestTrack#3
+4,Gearbox GT,190,450,9,130,900,90000,2;2;2;3;7,15000;30000;40000;50000;60000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+4,Brakes GT,190,450,6,100,850,15000,1;2;2;3;5,1200;2500;4000;6000;10000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+4,Suspension GT,190,450,10,100,800,45000,1;2;3;3;6,3800;7500;11000;15000;30000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+4,Rear Wing GT,190,450,5,100,800,5000,1;1;1;2;4,1000;2000;2500;2500;3000,Simulator#1,Simulator#2,Simulator#3
+5,EngineGET,650,850,15,600,2200,1400000,2;3;4;5;8,180000;360000;440000;500000;800000,TestTrack#1,TestTrack#2,TestTrack#3
+5,GearboxGET,650,850,9,600,2000,650000,2;2;2;3;7,70000;140000;300000;360000;400000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+5,BrakesGET,650,850,6,600,1900,120000,1;2;2;3;5,10000;20000;32000;48000;60000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+5,SuspensionGET,650,850,10,600,1950,360000,1;2;3;3;6,30000;60000;88000;120000;152000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+5,Front WingGET,650,850,5,600,2000,40000,1;1;1;2;4,4000;8000;12000;16000;20000,WindTunnel#1,WindTunnel#2,WindTunnel#3
+5,Rear WingGET,650,850,5,600,2000,40000,1;1;1;2;4,4000;8000;12000;16000;20000,Simulator#1,Simulator#2,Simulator#3
+6,EngineGET,220,430,20,200,1500,300000,2;3;3;4;6,30000;55000;80000;100000;150000,TestTrack#1,TestTrack#2,TestTrack#3
+6,GearboxGET,220,430,12,200,1200,125000,2;2;2;3;5,12500;25000;35000;55000;125000,TelemetryCentre#1,TelemetryCentre#2,TelemetryCentre#3
+6,BrakesGET,220,430,9,200,1100,75000,1;2;2;3;4,6000;12500;15000;20000;30000,BrakesResearchFacility#1,BrakesResearchFacility#2,BrakesResearchFacility#3
+6,SuspensionGET,220,430,15,200,1200,90000,1;2;2;3;4,7500;15000;25000;40000;60000,RideHandlingDevelopment#1,RideHandlingDevelopment#2,RideHandlingDevelopment#3
+6,Front WingGET,220,430,7,200,1100,25000,1;1;1;2;3,2000;4000;5000;7500;12500,WindTunnel#1,WindTunnel#2,WindTunnel#3
+6,Rear WingGET,220,430,7,200,1100,25000,1;1;1;2;3,2000;4000;5000;7500;12500,Simulator#1,Simulator#2,Simulator#3

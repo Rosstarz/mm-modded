@@ -1,0 +1,69 @@
+First Name,Last Name,Gender,Team,Investor,Nationality,DOB,Cost Focus,Patience,Happiness,Skin Colour,Hair,Hair Colour,Glasses,Accessory,Facial Hair,Peak Age,Peak Duration
+Ola,Kallenius,M,2,,Sweden,11/06/1969,4,4,100,1,2,11,1,0,0,60,5
+Dietrich,Mateschitz,M,,,Austria,20/05/1944,1,3,90,3,3,11,0,0,0,85,5
+Jost,Capito,M,4,,Germany,29/09/1958,5,5,90,1,3,11,0,0,8,65,5
+Louis,Camilleri,M,,,Malta,17/06/1955,4,2,85,1,2,8,3,0,3,75,5
+Zak,Brown,M,6,,UnitedStates,01/06/1971,3,3,90,1,1,11,1,0,0,85,5
+Lawrence,Stroll,M,7,,Canada,18/12/1955,3,2,90,4,6,11,3,0,11,85,5
+Dietrich,Mateschitz,M,,,Austria,20/05/1944,5,3,90,0,0,10,0,0,0,85,5
+Laurent,Rossi,M,9,,France,26/01/1975,3,3,85,0,9,1,0,0,6,75,5
+John,Elkann,M,5,,UnitedStates,01/04/1976,4,3,95,1,1,4,0,0,4,55,5
+Gene,Haas,M,11,,UnitedStates,03/07/1952,3,4,90,0,8,4,0,0,1,80,5
+Angelo,Rosin,M,12,,Italy,05/05/1960,2,3,95,4,7,10,0,0,0,85,5
+Frederic,Vasseur,M,13,,France,20/05/1957,5,4,95,2,2,10,0,0,4,85,5
+Gregory,Droit,M,14,,France,16/04/1978,2,4,90,1,7,11,0,0,3,85,5
+Antonin,Charouz,M,15,,CzechRepublic,17/06/1955,1,1,90,1,9,11,0,0,0,85,5
+Frits,van Amersfoort,M,16,,Netherlands,03/07/1955,3,5,98,0,3,4,0,0,6,85,5
+Trevor,Carlin,M,17,,UK,12/03/1964,3,2,95,2,3,10,1,0,0,85,3
+Andy,Roche,M,18,,UK,20/05/1965,3,4,98,2,0,11,0,0,0,80,5
+Adrian,Campos Jr,M,19,,Spain,05/10/1988,5,5,95,2,0,8,0,0,0,75,4
+Maurizio,Salvadori,M,20,,Italy,13/10/1957,2,5,98,0,11,10,3,0,2,85,5
+Sander,Dorsman,M,21,,Netherlands,03/07/1975,4,2,95,2,8,6,1,0,0,67,5
+Maurizio,Salvadori,M,25,,Italy,05/05/1957,5,1,95,1,3,10,1,0,1,85,4
+Frederic,Vasseur,M,23,,France,20/05/1957,1,5,98,2,0,11,1,0,4,85,4
+Antonin,Charouz,M,26,,CzechRepublic,17/06/1955,4,3,98,3,2,11,0,0,0,85,5
+Andreas,Jenzer,M,29,,Switzerland,17/06/1966,5,2,95,1,5,10,0,0,0,85,4
+Adrian,Campos Jr,M,30,,Spain,05/10/1988,5,5,95,0,3,7,1,0,1,75,5
+David,Hayle,M,22,,UK,13/10/1967,3,4,95,2,1,6,1,0,0,80,1
+Angelo,Rosin,M,24,,Italy,20/05/1960,2,2,98,2,2,10,1,0,0,75,5
+Trevor,Carlin,M,27,,UK,12/03/1964,3,3,98,1,0,11,0,0,0,70,5
+David,Hayle,M,28,,UK,13/10/1967,3,5,95,1,8,7,1,0,8,80,5
+Frits,van Amersfoort,M,31,,Netherlands,03/07/1955,3,5,98,0,3,4,0,0,6,85,5
+Roger,Penske,M,32,,UnitedStates,03/07/1937,4,4,95,2,1,9,0,0,1,85,5
+Michael,Shank,M,33,,UnitedStates,22/09/1966,4,4,95,2,1,9,0,0,1,85,5
+Chip,Ganassi,M,34,,UnitedStates,04/03/1958,4,4,95,0,8,9,1,0,3,85,5
+Chip,Ganassi,M,35,,UnitedStates,04/03/1958,4,4,95,0,8,9,1,0,3,85,5
+Michael,Andretti,M,36,,UnitedStates,12/07/1962,4,4,95,1,1,11,0,0,0,75,5
+Michael,Andretti,M,37,,UnitedStates,03/03/1962,4,4,95,1,5,1,2,0,0,75,5
+David,Letterman,M,38,,UnitedStates,03/02/1947,4,4,95,1,3,11,0,0,5,75,5
+Sam,Schmidt,M,39,,UnitedStates,11/07/1964,4,4,95,1,7,6,1,0,8,75,5
+Dale,Coyne,M,40,,UnitedStates,15/06/1954,4,4,95,2,4,11,1,0,0,75,5
+AJ,Foyt,M,41,,UnitedStates,03/01/1935,4,4,95,5,3,3,0,0,0,85,5
+Bill,Abel,M,47,,UnitedStates,12/03/1970,4,4,95,2,3,9,1,0,11,80,5
+Ed,Carpenter,M,43,,UnitedStates,14/01/1981,4,4,95,1,7,9,0,0,0,75,5
+Michael,Andretti,M,44,,UnitedStates,01/02/1962,4,3,90,0,7,10,2,0,7,75,5
+Michael,Andretti,M,45,,UnitedStates,01/02/1962,4,3,90,0,7,10,2,0,7,75,5
+Christian,Pedersen,M,46,,Denmark,12/03/1970,4,3,90,2,3,6,3,0,0,80,5
+Ricardo,Juncos,M,42,,Argentina,14/11/1963,4,3,95,4,12,4,1,0,0,75,5
+Henry,Malukas,M,48,,UnitedStates,11/06/1965,4,4,90,1,7,8,0,0,2,75,5
+Michael,Duncalfe,M,49,,Canada,07/10/1981,4,4,95,3,11,6,1,0,8,75,5
+Ricardo,Juncos,M,50,,Argentina,14/11/1963,4,3,95,4,12,4,1,0,0,65,5
+Trevor,Carlin,M,51,,UK,12/03/1964,3,3,98,1,0,11,0,0,0,70,5
+William,Storey,M,,1,UK,13/09/1978,3,3,90,2,10,3,3,0,10,70,5
+Jim,Farley,M,,2,UnitedStates,10/06/1962,4,4,90,2,10,3,3,0,10,75,5
+Oliver,Blume,M,,3,Germany,06/06/1968,4,4,90,2,10,3,3,0,10,70,5
+Akio,Toyoda,M,52,,Japan,28/06/1956,4,4,95,4,0,11,1,0,0,75,5
+Jean-Philippe,Imparato,M,53,,France,27/08/1966,4,4,95,2,4,6,0,0,4,75,5
+Yves,Weerts,M,60,,Belgium,08/06/1968,5,5,95,0,0,4,0,0,0,75,5
+Zak,Brown,M,54,,UnitedStates,01/06/1971,4,4,95,2,2,9,0,0,0,60,5
+Amato,Ferrari,M,58,,Italy,18/04/1966,4,4,95,2,2,9,0,0,0,75,5
+Angelo,Rosin,M,62,,Italy,05/05/1960,2,5,95,0,8,3,1,0,7,80,5
+Luca,de Meo,M,55,,Italy,13/06/1967,4,4,95,0,4,2,0,0,0,75,5
+Elton,Julian,M,59,,UnitedStates,16/08/1974,5,5,98,2,8,9,0,0,0,65,5
+Colin,Kolles,M,57,,Romania,13/12/1967,4,4,98,0,7,11,1,0,2,75,5
+Roger,Penske,M,61,,UnitedStates,03/07/1937,4,4,90,2,6,8,0,0,0,85,5
+Wojciech,Smiechowski,M,63,,Poland,04/05/1965,3,5,98,3,7,9,3,0,0,80,5
+James,Glickenhaus,M,56,,UnitedStates,24/07/1950,5,5,95,1,3,5,1,0,0,80,5
+Oliver,Mintzlaff,M,3,,Germany,19/08/1975,1,3,90,3,3,11,0,0,0,65,5
+John,Elkann,M,10,,UnitedStates,01/04/1976,4,3,95,1,1,4,0,0,4,70,5
+Oliver,Mintzlaff,M,8,,Germany,19/08/1975,1,3,90,3,3,11,0,0,0,65,5

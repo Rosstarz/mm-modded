@@ -2,7 +2,9 @@
 
 ### TODO
 - grid showcase scrollspeed increase
-- 
+- 'Auto On' option always automatically on
+- rotate camera option
+- add inability to click on menu
 
 #### Use AI for drivers
 ConsoleCommands -> useAIForDrivers
